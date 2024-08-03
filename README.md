@@ -1,4 +1,4 @@
-### [Деплой](https://nigilen.github.io/brotherhood/)
+### Деплой: https://nigilen.github.io/brotherhood/
 
 ### Ссылки деплоя заданий: 
 - [теория](https://nigilen.github.io/brotherhood/theory/answer.md)
