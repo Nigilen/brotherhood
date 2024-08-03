@@ -1,0 +1,14 @@
+.modal {
+  width: min(754px, 95vw);
+  padding: 53px 97px;
+  padding-inline: clamp(1.25rem, -0.4445rem + 7.23vw, 6.0625rem);
+  box-sizing: border-box;
+  margin-block: 31px;
+  max-height: 90vh;
+  border: none;
+  border-radius: 12px;
+}
+
+.modal::backdrop {
+  background-color: #00000070;
+}

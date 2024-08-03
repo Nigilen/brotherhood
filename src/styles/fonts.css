@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "PT Sans";
+  src: url(./../fonts/PTSans-Regular.eot);
+  src:
+    local("PT Sans"),
+    local("PTSans-Regular"),
+    url(./../fonts/PTSans-Regular.eot?#iefix) format("embedded-opentype"),
+    url(./../fonts/PTSans-Regular.woff2) frmat("woff2"),
+    url(./../fonts/PTSans-Regular.woff) frmat("woff"),
+    url(./../fonts/PTSans-Regular.ttf) frmat("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  src: url(./../fonts/PTSans-Bold.eot);
+  src:
+    local("PT Sans"),
+    local("PTSans-Bold"),
+    url(./../fonts/PTSans-Bold.eot?#iefix) format("embedded-opentype"),
+    url(./../fonts/PTSans-Bold.woff2) frmat("woff2"),
+    url(./../fonts/PTSans-Bold.woff) frmat("woff"),
+    url(./../fonts/PTSans-Bold.ttf) frmat("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Lato;
+  src: url(./../fonts/Lato-Semibold);
+  src:
+    local("Lato-Semibold"),
+    local("Lato-Semibold"),
+    url(./../fonts/Lato-Semibold?#iefix) format("embedded-opentype"),
+    url(./../fonts/Lato-Semibold.woff2) format("woff2"),
+    url(./../fonts/Lato-Semibold.woff) format("woff"),
+    url(./../fonts/Lato-Semibold.ttf) format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(./../fonts/Montserrat-ExtraBold);
+  src:
+    local("Montserrat-ExtraBold"),
+    local("Montserrat-ExtraBold"),
+    url(./../fonts/Montserrat-ExtraBold?#iefix) format("embedded-opentype"),
+    url(./../fonts/Montserrat-ExtraBold.woff2) format("woff2"),
+    url(./../fonts/Montserrat-ExtraBold.woff) format("woff"),
+    url(./../fonts/Montserrat-ExtraBold.ttf) format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}

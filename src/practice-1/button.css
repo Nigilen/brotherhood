@@ -1,0 +1,35 @@
+.button {
+  background-color: transparent;
+  border: none;
+  padding-block: 14px 16px;
+  cursor: pointer;
+  line-height: 18px;
+}
+
+.button--submit {
+  background-color: #e5266e;
+  border-radius: 4px;
+  font-family: Lato;
+  font-weight: 600;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.button--reset {
+  color: #0848c0;
+}
+
+.button--open-modal {
+  background-color: #fff;
+  color: #e5266e;
+  border: 1px solid #e5266e;
+  border-radius: 4px;
+  padding-inline: 39px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  margin-block-start: 18px;
+  gap: 4px;
+}
