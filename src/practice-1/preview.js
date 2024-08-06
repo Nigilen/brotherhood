@@ -11,5 +11,5 @@ function previewImage(file) {
 
 logoBtnDel.addEventListener("click", (e) => {
   logoInput.value = null;
-  logoImg.src = "./images/avatar.png";
+  logoImg.src = "../images/avatar.png";
 });

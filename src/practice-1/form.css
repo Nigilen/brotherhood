@@ -157,6 +157,11 @@ input[type="file"] {
   font-weight: bold;
 }
 
+.logo__caption span {
+  font-size: 12px;
+  font-weight: normal;
+}
+
 @media (width < 500px) {
   .fieldset--about {
     grid-template-columns: auto;
